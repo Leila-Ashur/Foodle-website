@@ -1,0 +1,101 @@
+/* style.css */
+
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+  }
+  
+  .text-content {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .text-content h2 {
+    font-size: 68px;
+    margin-bottom: 10px;
+    color:#f39c12;
+  }
+  
+  .text-content p {
+    font-size: 38px;
+    margin-bottom: 20px;
+  }
+  
+  .text-content button {
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 10px;
+  
+  }
+  
+  .text-content button.buy-button {
+    background-color: #f39c12;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  
+  .text-content button.buy-button:hover {
+    background-color: #e67e22;
+    transform: scale(1.05);
+  }
+  
+  .text-content button.how-to-order-button {
+    background-color: white;
+    color: #f39c12;
+    border: 1px solid #f39c12;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .text-content button.how-to-order-button:hover {
+    background-color: #f39c12;
+    color: white;
+  }
+  
+  .image img {
+    max-width: 100%;
+    height: auto;
+  }
+
+
+.Detail {
+  display: flex;
+  justify-content: center;
+ 
+  border-radius: 8px;
+  margin: 380px;
+  background-color: #f3e4e4;
+  box-shadow: 0 2px 4px rgba(28, 233, 5, 0.1);
+
+}
+
+.Detail > div {
+  text-align: center;
+
+  
+  margin: 10px;
+}
+
+.icon-background {
+  display: inline-block;
+  background-color: #f39c12; 
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.icon {
+  color: white; 
+  font-size: 24px; 
+  margin-right: 10px; 
+}
+  
+  

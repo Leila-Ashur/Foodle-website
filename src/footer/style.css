@@ -1,0 +1,60 @@
+/* style.css */
+
+.footer {
+    background-color: #ede4ed;
+    color: #0e0101;
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 0;
+}
+
+.footer h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.footer h1 {
+    font-size: 18px;
+}
+
+.Menu p {
+    margin: 5px 0;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.Menu p:hover {
+    color: #e74c3c;
+}
+
+.footer1 p {
+    margin: 5px 0;
+}
+
+.footer1 h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.icons {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.icons i {
+    font-size: 24px;
+    color: #fff;
+    transition: color 0.3s;
+}
+
+.icons i:hover {
+    color: #e74c3c;
+}
+.icons{   
+    font-size: 24px;
+    gap: 70px;
+margin-right: 10px;
+color: '#333', 
+
+} 
