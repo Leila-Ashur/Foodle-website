@@ -6,29 +6,36 @@
     margin-top: 20px;
     margin-right: 30px;
     margin-left: 40px;
+    
   }
   
   .item-container {
-    background-color: #ffc0cb;
     border-radius: 10px;
-    margin-right: 10px;
-    width: 230px;
+  
+    margin-right: 20px;
+    width: 250px;
     margin-top: 40px;
+    background-color: hsl(349, 50%, 91%);
+    padding-bottom: 3em;
    
     
   }
   
   .item-image {
     border-radius: 50%;
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     outline: 2px solid #ff0000;
     outline-offset: 2px;
   }
   
   .item-details {
-    margin-left: 5px;
-    margin-top: 5px;
+    margin-left: 30px;
+    margin-top: 10px;
+font-size: 25px;
+
+    
+
   }
   
   .item-name {
@@ -62,5 +69,7 @@
     border-radius: 30px;
     color: white;
     cursor: pointer;
+    width: 100px;
+    margin-left: 20px;
   }
   

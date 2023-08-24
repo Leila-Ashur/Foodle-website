@@ -17,7 +17,7 @@
   .text-content h2 {
     font-size: 68px;
     margin-bottom: 10px;
-    color:#f33f12;
+    color:#f36112;
   }
   
   .text-content p {
@@ -33,7 +33,7 @@
   }
   
   .text-content button.buy-button {
-    background-color: #f39c12;
+    background-color: #f36112;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -42,14 +42,14 @@
   }
   
   .text-content button.buy-button:hover {
-    background-color: #e67e22;
+    background-color: #f36112;
     transform: scale(1.05);
   }
   
   .text-content button.how-to-order-button {
     background-color: white;
-    color: #f39c12;
-    border: 1px solid #f39c12;
+    color:#f36112;
+    border: 1px solid#f36112;
     padding: 10px 20px;
     font-size: 16px;
     border-radius: 5px;
@@ -57,7 +57,7 @@
   }
   
   .text-content button.how-to-order-button:hover {
-    background-color: #f39c12;
+    background-color: #f36112;
     color: white;
   }
   
@@ -87,7 +87,7 @@
 
 .icon-background {
   display: inline-block;
-  background-color: #f39c12; 
+  background-color:#dc5a09; 
   padding: 10px;
   border-radius: 50%;
 }

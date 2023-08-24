@@ -4,6 +4,9 @@ import Home from './body';
 import Footer from './footer';
 import Category from './category';
 import  Variety from './Variety'
+import Food from './food';
+
+
 
 function App(){
   return(
@@ -12,8 +15,9 @@ function App(){
       <Home/>
       <Category/>
       <Variety/>
-     
+     <Food/>
       <Footer/>
+     
       
      
       

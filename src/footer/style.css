@@ -1,11 +1,11 @@
 /* style.css */
 
 .footer {
-    background-color: #ede4ed;
+    background-color: hsl(349, 50%, 91%);
     color: #0e0101;
     display: flex;
     justify-content: space-around;
-    padding: 40px 0;
+    /* padding: 40px 0; */
 }
 
 .footer h3 {
@@ -19,8 +19,7 @@
 
 .Menu p {
     margin: 5px 0;
-    cursor: pointer;
-    transition: color 0.3s;
+   
 }
 
 .Menu p:hover {
